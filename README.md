@@ -17,4 +17,19 @@ This project is part of an HTML learning exercise and demonstrates the use of se
 ---
 
 ## 📂 Project Structure
+my-html-blog/
+├── index.html
+├── README.md
+└── LICENSE
+
+## 🌐 Live Demo
+https://priyankaw120.github.io/my-html-blog/
+
+## 🛠 Tech Stack
+- HTML5 only
+
+## 📸 Preview 
+<img width="410" height="445" alt="image" src="https://github.com/user-attachments/assets/85969f54-c873-4225-8d9b-45648f8589ab" />
+
+
 
